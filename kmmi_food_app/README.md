@@ -1,8 +1,8 @@
 # KMMI Food App
 
-DOta Ningtias
-Universitas Lampung<br>
-1917051002
+- Dota Ningtias
+- Universitas Lampung<br>
+- 1917051002
 
 ## Getting Started
 
