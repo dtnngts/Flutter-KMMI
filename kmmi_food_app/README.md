@@ -1,8 +1,8 @@
 # KMMI Food App
 
-Hans Christian Herwanto<br> 
+DOta Ningtias
 Universitas Lampung<br>
-1917051022
+1917051002
 
 ## Getting Started
 
